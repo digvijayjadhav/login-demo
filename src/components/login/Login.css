@@ -1,0 +1,11 @@
+.card-login{
+    background-color: whitesmoke;
+    max-width: 40%;
+    margin-left: 25%;
+    margin-top: 5%;
+    padding: 0.5%;
+    padding-bottom: 2%;
+    align-items: center;
+    text-align: center;
+    box-shadow: -2px 25px 25px lightgrey
+}
